@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# File sensibili
+*.ovpn
+id_rsa
+id_rsa.pub
+*.pem
+payload.sh
+*.log
+logs/
+__pycache__/
+*.pyc
+.obsidian
