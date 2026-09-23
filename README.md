@@ -24,15 +24,9 @@ pe-llm-agent/
 ├── LICENSE
 ├── .gitignore
 ├── setup.sh                     
-├── agent_v1/
-│   ├── script/
-│   │   ├── main.py
-│   │   ├── llm_client.py
-│   │   ├── Linpeas_Parser.py
-│   │   ├── LinEnum_Parser.py
-│   │   ├── lse_parser.py
-│   │   └── suid3num_parser.py
-|
+├── prompt/
+│   ├── prompt_first_version
+│   ├── prompt_second_version   
 └── agent_v2/
     ├── script/
     │   ├── main.py
